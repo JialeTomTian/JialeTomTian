@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Tom 👋
 
-<!--
-**JialeTomTian/JialeTomTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am currently a student studying at **University of Waterloo** and am working as a backend developer at **Shopify**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also seeking 2022 summer internship opportunities.
+
+Here are some ways you can reach me:
+
+- Linkedin: https://www.linkedin.com/in/j63tian/
+
+- Website: https://www.jialetomtian.com
+
