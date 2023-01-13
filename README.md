@@ -1,7 +1,7 @@
 ### Hey, I'm Tom 👋
 
 
-I am currently a student studying at **University of Waterloo** and am working as a SDE Intern at **Amazon** and previously worked as a backend intern at Shopify. 
+I am currently a student studying at **University of Waterloo** and previously worked as a SDE intern at Amazon Web Services and as a backend intern at Shopify. 
 
 I am also seeking 2023 opportunities.
 
