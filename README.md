@@ -1,7 +1,7 @@
 ### Hey, I'm Tom 👋
 
 
-I am an MSCS student at **University of Illinois at Urbana Champaign**. I did my undergrad in CS at **University of Waterloo**.
+I am an MSCS student at **University of Illinois at Urbana Champaign**. I did my undergrad in CS at **University of Waterloo**. I am an incoming full-time Software Engineer at Databricks.
 
 Here are some links to learn more about me:
 
@@ -13,3 +13,4 @@ Here are some links to learn more about me:
 
 - Email: mailto:jiale.tom.tian@gmail.com
 
+![Views](https://komarev.com/ghpvc/?username=JialeTomTian)
